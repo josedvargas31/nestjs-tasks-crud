@@ -7,8 +7,8 @@ async function bootstrap() {
 
   // Sirve para la documentación de nuestra API
   const config = new DocumentBuilder()
-    .setTitle('Cats example')
-    .setDescription('The cats API description')
+    .setTitle('Tasks  API Docs')
+    .setDescription('API Docs for tasks management')
     .setVersion('1.0')
     .addTag('cats')
     .build();
